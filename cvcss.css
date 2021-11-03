@@ -1,0 +1,123 @@
+body{
+	margin:0px;
+	text-align:center;
+	
+	
+}
+h1{
+	margin:0 auto 0 auto;
+	word-spacing:10px;
+	font-weight:bold;
+	font-family:Sacramento;
+	color:#66BFBF;
+	font-size:5.625rem;
+}
+.p1{
+	
+    color:#66BFBF;
+font-size:35px;	
+font-family:Sacramento;
+font-weight:normal;
+}
+
+
+.top-container{
+	background-color:#E4F9F5;
+	position:relative;
+	padding-top:150px;
+}
+.top-cloud{
+	position:absolute;
+	right:300px;
+	top:100px;
+}
+	  
+.bottom-cloud{
+	position:absolute;
+	left:300px;
+
+}
+hr{
+	border-style:none;
+	border-top-style:dotted;
+	border-color:grey;
+	border-width:5px;
+	width:5%;
+}
+h2{
+	color:#11999E;
+	font-size:2rem;
+}
+.P2{
+	font-size:1.25rem;
+	color:#40514E;
+	line-height:2;
+	
+}
+.PIC{
+	BORDER-RADIUS:100%;
+}
+.Skills{
+width:50%;
+margin:50px auto 0 auto;
+text-align:left;
+line-height:2;
+
+}
+.skil{
+	width:50%;
+	position:relative;
+	left:200px;
+}
+.aptitude{
+	width:25%;
+	float:right;
+	margin-left:30px;
+}
+	
+.bottom-container{
+	background-color:#66BFBF;
+	padding:10px;
+}
+.button{
+  background: #0cb06f;
+  background-image: -webkit-linear-gradient(top, #0cb06f, #2bb6b8);
+  background-image: -moz-linear-gradient(top, #0cb06f, #2bb6b8);
+  background-image: -ms-linear-gradient(top, #0cb06f, #2bb6b8);
+  background-image: -o-linear-gradient(top, #0cb06f, #2bb6b8);
+  background-image: linear-gradient(to bottom, #0cb06f, #2bb6b8);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #22c735;
+  background-image: -webkit-linear-gradient(top, #22c735, #3ca818);
+  background-image: -moz-linear-gradient(top, #22c735, #3ca818);
+  background-image: -ms-linear-gradient(top, #22c735, #3ca818);
+  background-image: -o-linear-gradient(top, #22c735, #3ca818);
+  background-image: linear-gradient(to bottom, #22c735, #3ca818);
+  text-decoration: none;
+}
+a{
+	margin:10px 10px 10px 10px;
+	text-decoration:none;
+	font-size:20px;
+
+}
+a:hover{
+	color:#EAF6F6;
+}
+.COPYRIGHT{
+	COLOR:#EAF6F6;
+	font-size:15px;
+}
+ul{
+	list-style-type:kannada;
+}
